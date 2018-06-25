@@ -1,0 +1,1 @@
+This folder should contain all sprites for the characters and their animations.

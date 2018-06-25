@@ -1,0 +1,1 @@
+This folder should contain all stage background art and other stuffs related to that
